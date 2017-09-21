@@ -30,6 +30,7 @@ public class Main extends Application {
         super.stop();
     }
 
+
     @Override
     public void start(Stage primaryStage) throws Exception {
         this.primaryStage = primaryStage;
