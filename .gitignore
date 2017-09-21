@@ -1,0 +1,12 @@
+.idea/*
+*.class
+*.war
+*.jar
+*.ear
+Будет удалено .idea/
+Будет удалено ChatForYou.iml
+Будет удалено hs_err_pid14635.log
+Будет удалено out/
+Будет удалено src/ru/chatforyou/controlers/
+Будет удалено src/ru/chatforyou/gui/
+Будет удалено src/ru/chatforyou/object/

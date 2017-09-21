@@ -1,0 +1,17 @@
+.main {
+    -fx-background-color: #4b4b4d;
+}
+.editText {
+    -fx-width: 100%;
+    -fx-height: 150px;
+}
+
+.sidebar {
+
+}
+
+.sideBarWhoOnline{
+    -fx-background-color: #d7d7d8;
+
+}
+
